@@ -23,7 +23,7 @@ from tempfile import mkstemp
 
 import fixtures
 
-from openstack.common.setup import *
+from oslo.packaging.setup import *
 from tests import utils
 
 
